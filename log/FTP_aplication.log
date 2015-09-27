@@ -1,0 +1,258 @@
+2015-09-26 23:59:26 INFO  FtpMain:28 - comienza el ftp
+2015-09-26 23:59:26 INFO  FtpMain:31 - envia el fichero
+2015-09-26 23:59:26 INFO  FtpMain:33 - fichero enviado
+2015-09-27 00:02:55 INFO  FtpMain:28 - comienza el ftp
+2015-09-27 00:02:55 INFO  FtpMain:31 - envia el fichero
+2015-09-27 00:02:55 INFO  FtpMain:24 - conectado con el servidor ftp
+2015-09-27 00:02:55 INFO  FtpMain:29 - Envia el fichero
+2015-09-27 00:02:55 INFO  FtpMain:37 - Codigo del envio del FTP 226
+2015-09-27 00:02:55 INFO  FtpMain:41 - fichero enviado con exito
+2015-09-27 00:02:55 INFO  FtpMain:33 - fichero enviado
+2015-09-27 00:03:41 INFO  FtpMain:28 - comienza el ftp
+2015-09-27 00:03:41 INFO  FtpMain:31 - envia el fichero
+2015-09-27 00:03:41 INFO  FtpMain:24 - conectado con el servidor ftp
+2015-09-27 00:03:41 INFO  FtpMain:29 - Envia el fichero
+2015-09-27 00:03:41 INFO  FtpMain:37 - Codigo del envio del FTP 226
+2015-09-27 00:03:41 INFO  FtpMain:41 - fichero enviado con exito
+2015-09-27 00:03:41 INFO  FtpMain:33 - fichero enviado
+2015-09-27 00:03:47 INFO  FtpMain:28 - comienza el ftp
+2015-09-27 00:03:48 INFO  FtpMain:31 - envia el fichero
+2015-09-27 00:03:48 INFO  FtpMain:24 - conectado con el servidor ftp
+2015-09-27 00:03:48 INFO  FtpMain:29 - Envia el fichero
+2015-09-27 00:03:48 INFO  FtpMain:37 - Codigo del envio del FTP 226
+2015-09-27 00:03:48 INFO  FtpMain:41 - fichero enviado con exito
+2015-09-27 00:03:48 INFO  FtpMain:33 - fichero enviado
+2015-09-27 00:04:00 INFO  FtpMain:28 - comienza el ftp
+2015-09-27 00:04:00 INFO  FtpMain:31 - envia el fichero
+2015-09-27 00:04:00 INFO  FtpMain:24 - conectado con el servidor ftp
+2015-09-27 00:04:00 INFO  FtpMain:29 - Envia el fichero
+2015-09-27 00:04:00 INFO  FtpMain:37 - Codigo del envio del FTP 226
+2015-09-27 00:04:00 INFO  FtpMain:41 - fichero enviado con exito
+2015-09-27 00:04:00 INFO  FtpMain:33 - fichero enviado
+2015-09-27 00:04:06 INFO  FtpMain:28 - comienza el ftp
+2015-09-27 00:04:06 INFO  FtpMain:31 - envia el fichero
+2015-09-27 00:04:06 INFO  FtpMain:24 - conectado con el servidor ftp
+2015-09-27 00:04:06 INFO  FtpMain:29 - Envia el fichero
+2015-09-27 00:04:06 INFO  FtpMain:37 - Codigo del envio del FTP 226
+2015-09-27 00:04:06 INFO  FtpMain:41 - fichero enviado con exito
+2015-09-27 00:04:06 INFO  FtpMain:33 - fichero enviado
+2015-09-27 00:04:11 INFO  FtpMain:28 - comienza el ftp
+2015-09-27 00:04:11 INFO  FtpMain:31 - envia el fichero
+2015-09-27 00:04:11 INFO  FtpMain:24 - conectado con el servidor ftp
+2015-09-27 00:04:11 INFO  FtpMain:29 - Envia el fichero
+2015-09-27 00:04:11 INFO  FtpMain:37 - Codigo del envio del FTP 226
+2015-09-27 00:04:11 INFO  FtpMain:41 - fichero enviado con exito
+2015-09-27 00:04:11 INFO  FtpMain:33 - fichero enviado
+2015-09-27 00:04:15 INFO  FtpMain:28 - comienza el ftp
+2015-09-27 00:04:16 INFO  FtpMain:31 - envia el fichero
+2015-09-27 00:04:16 INFO  FtpMain:24 - conectado con el servidor ftp
+2015-09-27 00:04:16 INFO  FtpMain:29 - Envia el fichero
+2015-09-27 00:04:16 INFO  FtpMain:37 - Codigo del envio del FTP 226
+2015-09-27 00:04:16 INFO  FtpMain:41 - fichero enviado con exito
+2015-09-27 00:04:16 INFO  FtpMain:33 - fichero enviado
+2015-09-27 00:04:22 INFO  FtpMain:28 - comienza el ftp
+2015-09-27 00:04:22 INFO  FtpMain:31 - envia el fichero
+2015-09-27 00:04:22 INFO  FtpMain:24 - conectado con el servidor ftp
+2015-09-27 00:04:22 INFO  FtpMain:29 - Envia el fichero
+2015-09-27 00:04:22 INFO  FtpMain:37 - Codigo del envio del FTP 226
+2015-09-27 00:04:22 INFO  FtpMain:41 - fichero enviado con exito
+2015-09-27 00:04:22 INFO  FtpMain:33 - fichero enviado
+2015-09-27 00:05:452015-09-27 00:05:452015-09-27 00:05:452015-09-27 00:05:452015-09-27 00:05:452015-09-27 00:05:452015-09-27 00:05:452015-09-27 00:05:54 2015-09-27 00:05:54 2015-09-27 00:05:54 2015-09-27 00:05:54 2015-09-27 00:05:54 2015-09-27 00:05:54 2015-09-27 00:05:54 2015-09-27 00:06:08 INFO  2015-09-27 00:06:08 INFO  2015-09-27 00:06:08 INFO  2015-09-27 00:06:08 INFO  2015-09-27 00:06:08 INFO  2015-09-27 00:06:08 INFO  2015-09-27 00:06:08 INFO  2015-09-27 00:06:18 INFO  2015-09-27 00:06:18 INFO  2015-09-27 00:06:18 INFO  2015-09-27 00:06:18 INFO  2015-09-27 00:06:18 INFO  2015-09-27 00:06:18 INFO  2015-09-27 00:06:18 INFO  2015-09-27 00:06:34 INFO  FtpMain: - comienza el ftp
+2015-09-27 00:06:34 INFO  FtpMain: - envia el fichero
+2015-09-27 00:06:34 INFO  FtpMain: - conectado con el servidor ftp
+2015-09-27 00:06:34 INFO  FtpMain: - Envia el fichero
+2015-09-27 00:06:34 INFO  FtpMain: - Codigo del envio del FTP 226
+2015-09-27 00:06:34 INFO  FtpMain: - fichero enviado con exito
+2015-09-27 00:06:34 INFO  FtpMain: - fichero enviado
+2015-09-27 00:06:56 INFO  FtpMain: - comienza el ftp
+2015-09-27 00:06:56 INFO  FtpMain: - envia el fichero
+2015-09-27 00:06:56 INFO  FtpClient: - conectado con el servidor ftp
+2015-09-27 00:06:56 INFO  FtpClient: - Envia el fichero
+2015-09-27 00:06:56 INFO  FtpClient: - Codigo del envio del FTP 226
+2015-09-27 00:06:56 INFO  FtpClient: - fichero enviado con exito
+2015-09-27 00:06:56 INFO  FtpMain: - fichero enviado
+2015-09-27 00:16:57 ERROR FtpMain: - error en el paso de parametros de lanzamiento de la clase
+2015-09-27 00:19:35 INFO  FtpMain: - comienza el ftp
+2015-09-27 00:19:35 INFO  FtpMain: - envia el fichero
+2015-09-27 00:19:35 INFO  FtpClient: - conectado con el servidor ftp
+2015-09-27 00:19:35 INFO  FtpClient: - Envia el fichero
+2015-09-27 00:19:35 INFO  FtpClient: - Codigo del envio del FTP 226
+2015-09-27 00:19:35 INFO  FtpClient: - fichero enviado con exito
+2015-09-27 00:19:35 INFO  FtpMain: - fichero enviado
+2015-09-27 00:28:54 INFO  FtpMain: - comienza el ftp
+2015-09-27 00:29:55 INFO  FtpMain: - comienza el ftp
+2015-09-27 12:49:34 INFO  FtpMain: - comienza el ftp
+2015-09-27 12:51:43 ERROR FtpClient: - error de conexion, comprobar si hay conexion con aqui iria el nombre del servidor usuario
+2015-09-27 12:51:43 INFO  FtpMain: - envia el fichero
+2015-09-27 12:51:43 ERROR FtpMain: - IOException capturada
+2015-09-27 12:58:10 INFO  FtpMain: - comienza el ftp
+2015-09-27 13:00:17 ERROR FtpClient: - error de conexion, comprobar si hay conexion con aqui iria el nombre del servidor usuario
+2015-09-27 13:00:17 ERROR FtpClient: - codigo de retorno del FTP: 0 null
+2015-09-27 13:00:17 INFO  FtpMain: - envia el fichero
+2015-09-27 13:00:17 ERROR FtpMain: - IOException capturada
+2015-09-27 13:01:13 INFO  FtpMain: - comienza el ftp
+2015-09-27 13:03:20 ERROR FtpClient: - error de conexion, comprobar si hay conexion con aqui iria el nombre del servidor usuario
+2015-09-27 13:03:20 ERROR FtpClient: - codigo de retorno del FTP: 0
+2015-09-27 13:03:20 ERROR FtpClient: - exception capturada 
+java.net.ConnectException: Expiró el tiempo de conexión
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.commons.net.SocketClient.connect(SocketClient.java:182)
+	at org.apache.commons.net.SocketClient.connect(SocketClient.java:203)
+	at com.jacobo.ftp.FtpClient.setValoresConexion(FtpClient.java:59)
+	at com.jacobo.ftp.FtpClient.<init>(FtpClient.java:23)
+	at com.jacobo.ftp.FtpMain.main(FtpMain.java:34)
+2015-09-27 13:05:42 INFO  FtpMain: - comienza el ftp
+2015-09-27 13:07:49 ERROR FtpClient: - error de conexion, comprobar si hay conexion con aqui iria el nombre del servidor usuario
+2015-09-27 13:07:49 ERROR FtpClient: - exception capturada 
+java.net.ConnectException: Expiró el tiempo de conexión
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.commons.net.SocketClient.connect(SocketClient.java:182)
+	at org.apache.commons.net.SocketClient.connect(SocketClient.java:203)
+	at com.jacobo.ftp.FtpClient.setValoresConexion(FtpClient.java:59)
+	at com.jacobo.ftp.FtpClient.<init>(FtpClient.java:23)
+	at com.jacobo.ftp.FtpMain.main(FtpMain.java:34)
+2015-09-27 13:07:49 INFO  FtpMain: - envia el fichero
+2015-09-27 13:07:49 ERROR FtpMain: - IOException capturada
+2015-09-27 13:10:02 INFO  FtpMain: - comienza el ftp
+2015-09-27 13:10:12 ERROR FtpClient: - error de conexion, comprobar si hay conexion con aqui iria el nombre del servidor usuario
+2015-09-27 13:10:12 ERROR FtpClient: - exception capturada 
+java.net.SocketTimeoutException: connect timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.commons.net.SocketClient.connect(SocketClient.java:182)
+	at org.apache.commons.net.SocketClient.connect(SocketClient.java:203)
+	at com.jacobo.ftp.FtpClient.setValoresConexion(FtpClient.java:60)
+	at com.jacobo.ftp.FtpClient.<init>(FtpClient.java:23)
+	at com.jacobo.ftp.FtpMain.main(FtpMain.java:34)
+2015-09-27 13:15:20 INFO  FtpMain: - comienza el ftp
+2015-09-27 13:15:50 ERROR FtpClient: - error de conexion, comprobar si hay conexion con aqui iria el nombre del servidor usuario
+2015-09-27 13:15:50 ERROR FtpClient: - exception capturada 
+java.net.SocketTimeoutException: connect timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.commons.net.SocketClient.connect(SocketClient.java:182)
+	at org.apache.commons.net.SocketClient.connect(SocketClient.java:203)
+	at com.jacobo.ftp.FtpClient.setValoresConexion(FtpClient.java:61)
+	at com.jacobo.ftp.FtpClient.<init>(FtpClient.java:23)
+	at com.jacobo.ftp.FtpMain.main(FtpMain.java:37)
+2015-09-27 13:23:17 INFO  FtpMain: - comienza el ftp
+2015-09-27 13:23:17 ERROR FtpClient: - error de conexion, comprobar si hay conexion con aqui iria el nombre del servidor usuario
+2015-09-27 13:23:17 ERROR FtpClient: - exception capturada 
+java.net.ConnectException: Conexión rehusada
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.commons.net.SocketClient.connect(SocketClient.java:182)
+	at org.apache.commons.net.SocketClient.connect(SocketClient.java:203)
+	at com.jacobo.ftp.FtpClient.setValoresConexion(FtpClient.java:68)
+	at com.jacobo.ftp.FtpClient.<init>(FtpClient.java:30)
+	at com.jacobo.ftp.FtpMain.main(FtpMain.java:37)
+2015-09-27 13:25:54 INFO  FtpMain: - comienza el ftp
+2015-09-27 13:25:54 ERROR FtpClient: - error de conexion, comprobar si hay conexion con aqui iria el nombre del servidor usuario
+2015-09-27 13:25:54 ERROR FtpClient: - exception capturada 
+java.net.ConnectException: Conexión rehusada
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.commons.net.SocketClient.connect(SocketClient.java:182)
+	at org.apache.commons.net.SocketClient.connect(SocketClient.java:203)
+	at com.jacobo.ftp.FtpClient.setValoresConexion(FtpClient.java:68)
+	at com.jacobo.ftp.FtpClient.<init>(FtpClient.java:30)
+	at com.jacobo.ftp.FtpMain.main(FtpMain.java:37)
+2015-09-27 13:26:54 INFO  FtpMain: - comienza el ftp
+2015-09-27 13:27:51 ERROR FtpClient: - error de conexion, comprobar si hay conexion con aqui iria el nombre del servidor usuario
+2015-09-27 13:27:51 ERROR FtpClient: - exception capturada 
+java.net.SocketTimeoutException: connect timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.commons.net.SocketClient.connect(SocketClient.java:182)
+	at org.apache.commons.net.SocketClient.connect(SocketClient.java:203)
+	at com.jacobo.ftp.FtpClient.setValoresConexion(FtpClient.java:67)
+	at com.jacobo.ftp.FtpClient.<init>(FtpClient.java:29)
+	at com.jacobo.ftp.FtpMain.main(FtpMain.java:37)
+2015-09-27 13:28:59 INFO  FtpMain: - comienza el ftp
+2015-09-27 13:29:29 ERROR FtpClient: - error de conexion, comprobar si hay conexion con 192.168.56.101con el usuario jake
+2015-09-27 13:29:29 ERROR FtpClient: - exception capturada 
+java.net.SocketTimeoutException: connect timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.commons.net.SocketClient.connect(SocketClient.java:182)
+	at org.apache.commons.net.SocketClient.connect(SocketClient.java:203)
+	at com.jacobo.ftp.FtpClient.setValoresConexion(FtpClient.java:67)
+	at com.jacobo.ftp.FtpClient.<init>(FtpClient.java:29)
+	at com.jacobo.ftp.FtpMain.main(FtpMain.java:37)
+2015-09-27 13:33:05 INFO  FtpMain: - comienza el ftp
+2015-09-27 13:33:06 INFO  FtpMain: - envia el fichero
+2015-09-27 13:33:06 INFO  FtpClient: - conectado con el servidor ftp
+2015-09-27 13:33:06 INFO  FtpClient: - Envia el fichero
+2015-09-27 13:33:06 INFO  FtpClient: - fichero enviado con exito
+2015-09-27 13:33:06 INFO  FtpClient: - Codigo del envio del FTP 226
+2015-09-27 13:33:06 INFO  FtpClient: - desconexion del servidor
+2015-09-27 13:33:06 INFO  FtpMain: - fichero enviado
+2015-09-27 13:47:53 ERROR FtpMain: - error en el paso de parametros de lanzamiento de la clase
+2015-09-27 13:48:03 INFO  FtpMain: - comienza el ftp
+2015-09-27 13:48:03 INFO  FtpMain: - envia el fichero
+2015-09-27 13:48:03 INFO  FtpClient: - conectado con el servidor ftp
+2015-09-27 13:48:03 INFO  FtpClient: - Envia el fichero
+2015-09-27 13:48:03 INFO  FtpClient: - fichero enviado con exito
+2015-09-27 13:48:03 INFO  FtpClient: - Codigo del envio del FTP 226
+2015-09-27 13:48:03 INFO  FtpClient: - desconexion del servidor
+2015-09-27 13:48:03 INFO  FtpMain: - fichero enviado
+2015-09-27 14:06:03 INFO  FtpMain: - comienza el ftp
+2015-09-27 14:06:03 INFO  FtpMain: - envia el fichero
+2015-09-27 14:06:03 INFO  FtpClient: - conectado con el servidor ftp
+2015-09-27 14:06:03 INFO  FtpClient: - Envia el fichero
+2015-09-27 14:06:03 INFO  FtpClient: - fichero enviado con exito
+2015-09-27 14:06:03 INFO  FtpClient: - Codigo del envio del FTP 226
+2015-09-27 14:06:03 INFO  FtpClient: - desconexion del servidor
+2015-09-27 14:06:03 INFO  FtpMain: - fichero enviado
+2015-09-27 17:19:41 INFO  FtpMain: - comienza el ftp
+2015-09-27 17:19:41 INFO  FtpMain: - envia el fichero
+2015-09-27 17:19:41 INFO  FtpClient: - conectado con el servidor ftp
+2015-09-27 17:19:41 INFO  FtpClient: - Envia el fichero
+2015-09-27 17:19:41 INFO  FtpClient: - fichero enviado con exito
+2015-09-27 17:19:41 INFO  FtpClient: - Codigo del envio del FTP 226
+2015-09-27 17:19:41 INFO  FtpClient: - desconexion del servidor
+2015-09-27 17:19:41 INFO  FtpMain: - fichero enviado
+2015-09-27 17:21:39 ERROR SFTPMain: - Error en el paso de parametros, comprobar los parametros y volver a ejecutar
+2015-09-27 18:22:54 ERROR SFTPClient: - error en el envio del fichero /tmp/fichero1.txt reintentar 
+4: java.lang.NullPointerException
+	at com.jcraft.jsch.ChannelSftp.put(ChannelSftp.java:487)
+	at com.jcraft.jsch.ChannelSftp.put(ChannelSftp.java:365)
+	at sftp.SFTPClient.enviaSFTP(SFTPClient.java:41)
+	at sftp.SFTPMain.main(SFTPMain.java:22)
+Caused by: java.lang.NullPointerException
+	at com.jcraft.jsch.ChannelSftp.put(ChannelSftp.java:389)
+	... 3 more
